@@ -2,7 +2,7 @@
 
 &nbsp;
 ### 👨🏻‍💻 &nbsp;About Me  
-Soy un estudiante de Ingeniería en Software con una fuerte pasión por el desarrollo de software y la ciencia de datos. A lo largo de mis estudios, he desarrollado aplicaciones móviles y de escritorio utilizando lenguajes como Python, C#, Kotlin y Java. Me encanta aprender nuevas tecnologías y actualmente estoy profundizando en análisis de datos.
+I am a Software Engineering student with a strong passion for software development and data science. Throughout my studies, I have developed mobile and desktop applications using languages ​​​​such as Python, C#, Kotlin and Java. I love learning new technologies and I am currently delving into data analysis.
 
 &nbsp;
 ### 🛠 &nbsp;Tech Stack  
